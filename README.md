@@ -1,2 +1,2 @@
-# michihodges_favicons
+# Favicons Template
 A favicons template stack. 
